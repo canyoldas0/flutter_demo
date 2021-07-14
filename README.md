@@ -6,4 +6,4 @@
 
 ### This project will be continued.
 
-![Main Screen](https://github.com/canyoldas0/flutter_demo/blob/main/assets/images/mainscreen.png = 300px)
+![Main Screen](https://github.com/canyoldas0/flutter_demo/blob/main/assets/images/mainscreen.png = 300x)
